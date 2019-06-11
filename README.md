@@ -31,13 +31,13 @@
 - 일반 저장소에서 호스팅 저장소로 변경하기 
   [Youtube 영상](https://youtu.be/SNnfbf-LJz4)
 
-  ## 2일차
-  ### HTML 기본 구조
-  - DTD 선언(<DOCTYPE html>)
-  - html 요소 (<html lang="ko-kr">)
-  - head 요소 (문서 제목 및 메타데이터)
-  - 인코딩 선언 (<meta charset="utf-8">)
-  - body 요소 (본문 영역)
+## 2일차
+### HTML 기본 구조
+- DTD 선언(<DOCTYPE html>)
+- html 요소 (<html lang="ko-kr">)
+- head 요소 (문서 제목 및 메타데이터)
+- 인코딩 선언 (<meta charset="utf-8">)
+- body 요소 (본문 영역)
 
 ```html
 <!DOCTYPE html>
@@ -53,13 +53,13 @@
 ```
 
 ### HTML 요소
-- 제목 요소 (<h1> ~ <h6>)
-- 문단 요소 (<p>)
-- 강조, 분위기 전환 (<b>, <i>, <strong>, <em>)
-- 줄바꿈, 수평선 (<br>, <hr>)
-- 목록 요소 (<ul>, <ol>, <li>, <dl>, <dt>, <dd>)
-- 하이퍼링크 (<a>, href 속성, target 속성, title 속성)
-- 이미지 (<img>, src 속성, alt 속성)
+- 제목 요소 (h1 ~ h6)
+- 문단 요소 (p)
+- 강조, 분위기 전환 (b, i, strong, em)
+- 줄바꿈, 수평선 (br, hr)
+- 목록 요소 (ul, ol, li, dl, dt, dd)
+- 하이퍼링크 (a, href 속성, target 속성, title 속성)
+- 이미지 (img, src 속성, alt 속성)
 
 ### CSS의 개념 및 정의
 - CSS는 Casecade Style Sheet 의 약자로 스타일을 정의하기 위한 언어이다.
